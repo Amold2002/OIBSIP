@@ -1,0 +1,47 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: black;
+    background-size: cover;
+    
+}
+.bac{
+    display: grid;
+    grid-template-columns: 70% 30%;
+    grid-template-rows: 70% 30%;
+    background-color: wheat;
+}
+p{
+    margin: 30px;
+    padding: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+}
+img{
+    margin: 20px;
+   float: right;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
